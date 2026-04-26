@@ -93,8 +93,8 @@ ollama pull llama3.2
 ollama pull qwen2.5-coder:7b
 
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/PRISM.git
-cd PRISM
+git clone https://github.com/sharmaaditya2003/PRISM---Private-Reasoning-Insight-System-for-ML.git
+cd PRISM---Private-Reasoning-Insight-System-for-ML
 
 # Install dependencies
 pip install -r requirements.txt
