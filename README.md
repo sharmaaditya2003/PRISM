@@ -93,8 +93,8 @@ ollama pull llama3.2
 ollama pull qwen2.5-coder:7b
 
 # Clone the repo
-git clone https://github.com/sharmaaditya2003/PRISM---Private-Reasoning-Insight-System-for-ML.git
-cd PRISM---Private-Reasoning-Insight-System-for-ML
+git clone https://github.com/sharmaaditya2003/PRISM.git
+cd PRISM
 
 # Install dependencies
 pip install -r requirements.txt
@@ -156,7 +156,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](https://github.com/sharmaaditya2003/PRISM---Private-Reasoning-Insight-System-for-ML/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License — see the [LICENSE](https://github.com/sharmaaditya2003/PRISM/blob/main/LICENSE)) file for details.
 
 ---
 
